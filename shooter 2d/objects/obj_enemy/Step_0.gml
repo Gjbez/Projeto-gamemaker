@@ -1,1 +1,0 @@
-obj_enemy.size = 5.0
